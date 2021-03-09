@@ -1,4 +1,4 @@
-    # PROJECT SUMMARY
+# PROJECT SUMMARY
 Sparkify has published a new music player app which customers now regularly use.
 This set of files contains ETL code and a data sample for testing purposes.
 The scripts "create_tables.py" and "etl.py" are used for setting up the database and create (exemplatory) content.
